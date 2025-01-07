@@ -1,0 +1,8 @@
+# Ignore Word documents
+*.docx
+
+# Ignore PowerPoint presentations
+*.pptx
+
+# Ignore the specific Jupyter notebook
+main_2 (1).ipynb
